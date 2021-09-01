@@ -1,1 +1,1 @@
-# 🏦🏗 scaffold-eth - NFT Auction
+#
